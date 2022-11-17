@@ -2,7 +2,7 @@
 # sql-cleaning
 ||||||| 40da3ca
 =======
-### Project date:
+### Project date: 
 
 01/JAN/2022
 
